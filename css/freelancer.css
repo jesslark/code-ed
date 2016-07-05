@@ -233,6 +233,7 @@ section.success a.active {
 #resources .resources-item {
     right: 0;
     margin: 0 0 15px;
+    border: black 1px solid;
 }
 
 #resources .resources-item .resources-link {
